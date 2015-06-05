@@ -1,0 +1,14 @@
+{
+    "name": "backup-web" ,
+    "version": "0.0.1",
+    "description": "Website for collecting data for backup tasks",
+    "author": "Craig David"
+,
+"dependencies" : {
+    "hapi": "8.x.x",
+    "lodash": "3.x.x",
+    "winston": "x.x.x",
+    "winston-redis": "0.x.x",
+    "redis": "0.x.x"
+    }
+}
